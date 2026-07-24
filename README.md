@@ -60,3 +60,5 @@ npm run preview
 - `1234`
 
 Change it in Admin panel after first login.
+
+https://thehotchick.a2ztryit.workers.dev/
