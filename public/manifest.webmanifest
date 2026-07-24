@@ -1,0 +1,25 @@
+{
+  "name": "The Hot Chick",
+  "short_name": "The Hot Chick",
+  "description": "Offline-first ordering and billing app for The Hot Chick.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#f6efe4",
+  "theme_color": "#e8642a",
+  "icons": [
+    {
+      "src": "/the-hot-chick-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/the-hot-chick-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
