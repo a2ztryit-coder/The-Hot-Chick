@@ -1,0 +1,19 @@
+{
+  "name": "Hotel POS Offline",
+  "short_name": "Hotel POS",
+  "description": "Offline-first hotel and fast-food POS for cashier, admin, and daily reporting.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#f6efe4",
+  "theme_color": "#e8642a",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
